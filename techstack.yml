@@ -2,7 +2,7 @@ repo_name: appohfaiths/foodle-test
 report_id: 911e56821e97017506c1e185f8044685
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-23T13:36:09+00:00'
+timestamp: '2024-02-29T19:35:03+00:00'
 requested_by: appohfaiths
 provider: github
 branch: main
@@ -42,7 +42,7 @@ tools:
   last_updated_by: Faith S. Appoh
   last_updated_on: 2022-07-29 18:26:40.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 12.2.3
   open_source: true
